@@ -1,1 +1,3 @@
-"# hashira-exercise" 
+# Hashira-Exercise
+
+- Compiled in Java
